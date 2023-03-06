@@ -1,0 +1,22 @@
+{
+  "name": "sharp-react",
+  "version": "1.0.0",
+  "description": "This is an learing react app",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankitharendra/sharp-react.git"
+  },
+  "author": "Ankit Yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankitharendra/sharp-react/issues"
+  },
+  "homepage": "https://github.com/ankitharendra/sharp-react#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
